@@ -12,4 +12,4 @@
 - **Tools:** Power BI, VS Code, Git, Jupyter Notebook  
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/shanthoshkumar) | [Email](mailto:shanthosh958@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shanthosh-kumar-6621a3275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](mailto:shanthosh958@gmail.com)
