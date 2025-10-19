@@ -1,1 +1,15 @@
-# shanthoshkumar-R
+# 👋 Hi, I'm Shanthosh Kumar R  
+💻 Aspiring Software Developer | Python | Java | SQL  
+
+🌱 Currently improving my skills in Full Stack Development (Flask + ReactJS).  
+🚀 Passionate about creating projects that solve real-world problems.  
+🎯 Goal: To become a skilled Software Engineer contributing to impactful products.
+
+## 🧩 Tech Stack
+- **Languages:** Python, Java, SQL  
+- **Frameworks:** Flask, ReactJS  
+- **Databases:** MySQL  
+- **Tools:** Power BI, VS Code, Git, Jupyter Notebook  
+
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/shanthoshkumar) | [Email](mailto:shanthosh958@gmail.com)
